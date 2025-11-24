@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Ed
+# Hi, I'm Ed
 
 Electronics & Communications Engineer | Transitioning back into IT | SAP Functional Modules & Power BI Enthusiast
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 - Building expertise in **SAP functional modules** (MM, SD, FI/CO)
 - Creating beginner-friendly **Power BI dashboards**
 - Documenting my IT learning journey on **GitHub** and **LinkedIn**
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,7 +25,7 @@ Electronics & Communications Engineer | Transitioning back into IT | SAP Functio
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 - [SAP Learning Notes](https://github.com/edtidalgo/My_SAP_Learning_Journey)  
   Documentation of SAP MM, SD, FI/CO modules with reflections and examples.
 
@@ -37,13 +37,13 @@ Electronics & Communications Engineer | Transitioning back into IT | SAP Functio
 
 ---
 
-## 🌟 Goals
+## Goals
 - **Short Term**: Weekly updates on SAP learning and Power BI dashboards  
 - **Long Term**: Build a public portfolio demonstrating ERP & analytics proficiency for IT career advancement
 
 ---
 
-## 🏅 Certifications & Achievements
+## Certifications & Achievements
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
