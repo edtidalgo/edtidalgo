@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Ed
 
-<!--
-**edtidalgo/edtidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Communications Engineer | Transitioning back into IT | SAP Functional Modules & Power BI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building expertise in **SAP functional modules** (MM, SD, FI/CO)
+- Creating beginner-friendly **Power BI dashboards**
+- Documenting my IT learning journey on **GitHub** and **LinkedIn**
+
+---
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+- [SAP Learning Notes](https://github.com/YourRepoHere)  
+  Documentation of SAP MM, SD, FI/CO modules with reflections and examples.
+
+- [Power BI Dashboards](https://github.com/YourRepoHere)  
+  Beginner dashboards showcasing data analysis and visualization.
+
+- [SQL & Python Automation](https://github.com/YourRepoHere)  
+  Scripts and tools for workflow optimization.
+
+---
+
+## 🌟 Goals
+- **Short Term**: Weekly updates on SAP learning and Power BI dashboards  
+- **Long Term**: Build a public portfolio demonstrating ERP & analytics proficiency for IT career advancement
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourProfile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/YourUsername)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edtidalgo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edtidalgo&layout=compact&theme=radical)
