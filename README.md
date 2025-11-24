@@ -43,6 +43,33 @@ Electronics & Communications Engineer | Transitioning back into IT | SAP Functio
 
 ---
 
+## 🏅 Certifications & Achievements
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding:6px; vertical-align:middle;">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="50" height="50">
+    </td>
+    <td style="border: none; padding:6px; vertical-align:middle;">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/EdTi-4354/HZRHWZR8?sharingId=6B653EE38090B9F6">
+        Get started building with Power BI
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding:6px; vertical-align:middle;">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/data-analytics-and-microsoft.svg" width="50" height="50">
+    </td>
+    <td style="border: none; padding:6px; vertical-align:middle;">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/EdTi-4354/8ZQ5SC5W?sharingId=6B653EE38090B9F6">
+        Discover Data Analysis
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/edtidalgo0974/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/edtidalgo)
