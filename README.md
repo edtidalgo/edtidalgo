@@ -26,10 +26,10 @@ Electronics & Communications Engineer | Transitioning back into IT | SAP Functio
 ---
 
 ## 📂 Featured Projects
-- [SAP Learning Notes](https://github.com/YourRepoHere)  
+- [SAP Learning Notes](https://github.com/My_SAP_Learning_Journey)  
   Documentation of SAP MM, SD, FI/CO modules with reflections and examples.
 
-- [Power BI Dashboards](https://github.com/YourRepoHere)  
+- [Power BI Dashboards](https://github.com/My_PowerBI_Learning_Journey)  
   Beginner dashboards showcasing data analysis and visualization.
 
 - [SQL & Python Automation](https://github.com/YourRepoHere)  
@@ -44,8 +44,8 @@ Electronics & Communications Engineer | Transitioning back into IT | SAP Functio
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourProfile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/edtidalgo0974/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/edtidalgo)
 
 ---
 
