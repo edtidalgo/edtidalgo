@@ -70,7 +70,7 @@ Electronics & Communications Engineer | Transitioning back into IT | SAP Functio
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/edtidalgo0974/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/edtidalgo)
 
