@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="banner2.png"
+       alt="From construction sites to command lines — rebuilding my career in IT"
+       width="100%"
+       style="max-width: 1200px; border-radius: 8px; opacity: 50%;">
+</div>
+
 # Hi, I'm Ed
 
 Electronics & Communications Engineer | Transitioning back into IT | SAP Functional Modules & Power BI Enthusiast
